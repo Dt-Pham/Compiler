@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Don't ignore test file
+!**/grading/*
