@@ -31,5 +31,5 @@
 *.out
 *.app
 
-# Don't ignore test file
-!**/grading/*
+# Ignore test directories
+**/grading/*
